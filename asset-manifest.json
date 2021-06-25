@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landleaflet/static/css/main.6c672271.chunk.css",
+    "main.js": "/landleaflet/static/js/main.d63cb22d.chunk.js",
+    "main.js.map": "/landleaflet/static/js/main.d63cb22d.chunk.js.map",
+    "runtime-main.js": "/landleaflet/static/js/runtime-main.6f8b7c0d.js",
+    "runtime-main.js.map": "/landleaflet/static/js/runtime-main.6f8b7c0d.js.map",
+    "static/js/2.5df83daa.chunk.js": "/landleaflet/static/js/2.5df83daa.chunk.js",
+    "static/js/2.5df83daa.chunk.js.map": "/landleaflet/static/js/2.5df83daa.chunk.js.map",
+    "index.html": "/landleaflet/index.html",
+    "precache-manifest.c0e842441bc17becb56b52bb444d9974.js": "/landleaflet/precache-manifest.c0e842441bc17becb56b52bb444d9974.js",
+    "service-worker.js": "/landleaflet/service-worker.js",
+    "static/css/main.6c672271.chunk.css.map": "/landleaflet/static/css/main.6c672271.chunk.css.map",
+    "static/js/2.5df83daa.chunk.js.LICENSE.txt": "/landleaflet/static/js/2.5df83daa.chunk.js.LICENSE.txt",
+    "static/media/leaflet.draw.css": "/landleaflet/static/media/spritesheet.8b8e805f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f8b7c0d.js",
+    "static/js/2.5df83daa.chunk.js",
+    "static/css/main.6c672271.chunk.css",
+    "static/js/main.d63cb22d.chunk.js"
+  ]
+}
